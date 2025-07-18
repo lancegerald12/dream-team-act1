@@ -4,7 +4,7 @@ import { type Metadata } from "next";
 import { Geist } from "next/font/google";
 
 export const metadata: Metadata = {
-  title: "Dream Team Act2",
+  title: "Dream Team Act1",
   description: "Activity API",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
