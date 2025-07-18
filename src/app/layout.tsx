@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${geist.variable}`}>
       <main className="flex w-full bg-white">
-        <h1>Dream Team Act2</h1>
+        <h1>Dream Team Act1</h1>
       </main>
       <body>{children}</body>
     </html>
